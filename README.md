@@ -9,6 +9,7 @@ Estou concluindo um curso profissionalizante de Programador de Sistemas no [Sena
 Pretendo adquirir habilidades suficientes para conseguir uma vaga de emprego no mercado da TI e seguir carreira entregando com eficiência o requerido pelo empregador. 
 
 ### Habilidades sendo adquiridas
+
 <div style="display: inline_block"><br>
     <img aligner="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <img aligner="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -17,9 +18,7 @@ Pretendo adquirir habilidades suficientes para conseguir uma vaga de emprego no 
     <img aligner="center" alt="MySql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
     <img aligner="center" alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
     <img aligner="center" alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
-</div>
-
-### Minhas estatísticas do Github
+</div><br>
 
 ![Magno GitHub stats](https://github-readme-stats.vercel.app/api?username=Magnoviana&show_icons=true&theme=radical)
 
